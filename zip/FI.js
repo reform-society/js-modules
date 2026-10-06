@@ -3579,6 +3579,7 @@ export const FI = {
   "96301": "Rovaniemi",
   "96320": "Rovaniemi",
   "96400": "Rovaniemi",
+  "96401": "Rovaniemi",
   "96440": "Rovaniemi",
   "96460": "Rovaniemi",
   "96500": "Rovaniemi",
